@@ -160,7 +160,7 @@ The entire end-to-end prototype — including UX design, relational PostgreSQL s
 All team members contributed across the entire stack (Full-Stack architecture, UI/UX design, database engineering, and presentation pitch):
 
 * 👨‍💻 **Trifun Đorđević** — [@Trysha-rbrn](https://github.com/Trysha-rbrn)
-* 👨‍💻 **Luka Živković** — *[GitHub profile pending]*
+* 👨‍💻 **Luka Živković** — [@LukaZiv007](https://github.com/LukaZiv007)
 * 👨‍💻 **Nemanja Sumrak** — *[GitHub profile pending]*
 * 👨‍💻 **Mihajlo Đonović** — *[GitHub profile pending]*
 
